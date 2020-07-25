@@ -1,8 +1,9 @@
 # HTB-Challenges: Reversing: Baby RE
 **Category:** Reverse Engineering **Points:** 10 points **Date:** 15/10/2019</br>
+**Zip Password:** hackthebox **Flag format:** HTB{*some_text*}</br>
 **Description:**
 Show us your basic skills! (P.S. There are 4 ways to solve this, are you willing to try them all?)
-
+</br>
 ## TL;DR
 First method: strings
 </br>
