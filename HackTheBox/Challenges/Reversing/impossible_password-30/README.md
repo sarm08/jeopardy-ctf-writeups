@@ -1,7 +1,7 @@
 # HTB-Challenges: Reversing: Impossible Password
 **Category:** Reverse Engineering **Points:** 30 points **Date:** 01/09/2017
 </br>
-**Zip Password:** hackthebox
+**Zip password:** hackthebox
 **Flag format:** HTB{*some_text*}
 </br>
 **Description:**

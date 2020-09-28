@@ -1,4 +1,4 @@
-# HTB-Challenges: Reversing: Fnd The Secret Flag
+# HTB-Challenges: Reversing: Find The Secret Flag
 **Category:** Reverse Engineering **Points:** 50 points **Date:** 14/09/2017
 </br>
 **Zip password:** hackthebox
